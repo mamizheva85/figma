@@ -706,3 +706,90 @@ select{
 .form-style-1 .required{
 	color:#D67E34;
 }
+@media all and (max-width: 1024px) {
+.menu {
+	margin-left: 55px;
+}
+.square-one {
+	margin-left: 50px;
+}
+.square-two {
+	margin-left: 20px;
+}
+.btn {
+	margin: 70px 7px;
+}
+.container {
+	margin: 0 15px;
+	width: 300px;
+}
+.history-block {
+	margin-left: -40px;
+}
+.img-layer1 {
+	width: 90%;
+	margin-left: 50px;
+}
+.img-layer2 {
+	width: 245px;
+	margin-left: 50px;
+}
+.img-layer3 {
+	margin-left: 80px;
+	width: 280px;
+}
+.img-layer4 {
+	width: 225px;
+	margin-left: 50px;
+}
+.order-text-one {
+	font-size: 48px;
+}
+.pizza {
+	width: 450px;
+	height: 450px;
+}
+.img-hamburger {
+	width: 146px;
+}
+.hamburger-container {
+	margin-left: 16px;
+}
+.main-hamburger-container {
+	margin-left: 30px;
+}
+.price {
+	font-size: 23px;
+}
+.one {
+	margin-top: 16px;
+}
+.white-block {
+	width: 315px;
+	margin: 10px;
+}
+.soup, .coffe {
+	width: 215px;
+}
+.glass {
+	width: 460px;
+}
+.cook1, .cook2, .cook3 {
+	width: 300px;
+}
+.cooker-one, .cooker-two, .cooker-three {
+	width: 300px;
+}
+.img-bar {
+	width: 1024px;
+}
+.text-for-contacts {
+	font-size: 14px;
+}
+.about-us, .contacts, .forms {
+	width: 305px;
+}
+.contact-text {
+	margin-left: 0;
+}
+}
